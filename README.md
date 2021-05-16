@@ -11,7 +11,6 @@ Colorized Image
 ## How to use
 * First of all you need a DEEP AI API KEY
   sign up to website https://deepai.org/dashboard/profile and get your api key in profile section
-  
 * Edit the part of DEEP_AI_API_KEY = 'TOKEN' with your DEEP AI TOKEN
 * Create bw and cf folders. Bw folder is for black and white images, cf folder is for colored images. Put some grayscale images in the bw folder
 * Run script "python main.py"
