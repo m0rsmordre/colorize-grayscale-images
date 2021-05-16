@@ -13,9 +13,14 @@ Colorized Image
   sign up to website https://deepai.org/dashboard/profile and get your api key in profile section
   
 * Edit the part of DEEP_AI_API_KEY = 'TOKEN' with your DEEP AI TOKEN
-
-* Create bw and cf folders. Bw folder is for black and white images, cf folder is for colored images.
-
-* Run script python main.py
-
+* Create bw and cf folders. Bw folder is for black and white images, cf folder is for colored images. Put some grayscale images in the bw folder
+* Run script "python main.py"
 * Script will scan files in bw folder and send a request to DEEP AI API image will be downloaded to cf folder as colorized
+
+## Nasıl Kullanılır
+
+* İlk önce bir adet api keyine ihtiyacınız olacak. Siteye kayıt olduktan sonra profile kısmından api keyinizi kopyalayın https://deepai.org/dashboard/profile
+* DEEP_AI_API_KEY = "TOKEN" yazan kısımdaki TOKEN yazısını kendi api keyiniz ile değiştirin.
+* bw ve cf isminde klasörleri oluşturmalısınız. bw isimli klasöre siyah beyaz fotoğraflarınızı atın
+* Programı çalıştırın "python main.py"
+* Program bw klasöründeki dosyaları tarayacak ve DEEP AI API'sine dosyaları gönderecek ve dosyaları teker teker cf klasörüne renklendirilmiş şekilde indirecektir.
