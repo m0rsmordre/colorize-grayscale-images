@@ -8,7 +8,7 @@ Colorized Image
 ---------------------------------------------------------------------------------------------------------------------------
 ![example_colorful](https://user-images.githubusercontent.com/42314954/118395014-cb564680-b650-11eb-917a-ef0583e33bd7.jpg)
 
-##How to use
+## How to use
 * First of all you need a DEEP AI API KEY
   sign up to website https://deepai.org/dashboard/profile and get your api key in profile section
   
