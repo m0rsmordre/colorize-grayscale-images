@@ -1,12 +1,12 @@
 # colorize-grayscale-images
 Grayscale Image
 ---------------------------------------------------------------------------------------------------------------------------
-![example_grayscale](https://user-images.githubusercontent.com/42314954/118395004-bed1ee00-b650-11eb-88fd-a71c48470c47.jpg | width=500)
+![example_grayscale](https://user-images.githubusercontent.com/42314954/118395004-bed1ee00-b650-11eb-88fd-a71c48470c47.jpg)
 
 
 Colorized Image
 ---------------------------------------------------------------------------------------------------------------------------
-![example_colorful](https://user-images.githubusercontent.com/42314954/118395014-cb564680-b650-11eb-917a-ef0583e33bd7.jpg | width=500)
+![example_colorful](https://user-images.githubusercontent.com/42314954/118395014-cb564680-b650-11eb-917a-ef0583e33bd7.jpg)
 
 ## How to use
 * First of all you need a DEEP AI API KEY
